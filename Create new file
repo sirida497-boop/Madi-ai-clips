@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mahdi AI Clips</title>
+<style>
+body {
+  margin: 0;
+  background: #101010;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+header {
+  padding: 25px;
+  background: #202020;
+}
+h1 { color: #ffcc00; }
+main { padding: 35px 15px; }
+button {
+  background: #ffcc00;
+  color: black;
+  border: none;
+  padding: 14px 25px;
+  border-radius: 8px;
+  font-weight: bold;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>MAHDI AI CLIPS</h1>
+<p>Create amazing AI videos</p>
+</header>
+<main>
+<h2>Welcome to Mahdi AI Clips</h2>
+<p>Your AI video creation platform</p>
+<button>Get Started</button>
+</main>
+</body>
+</html>
